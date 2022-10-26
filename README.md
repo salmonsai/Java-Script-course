@@ -1,4 +1,4 @@
-# Java-Script-course
+# JavaScript-course
 
 HW_1
  1. Создать переменную “item_1”
